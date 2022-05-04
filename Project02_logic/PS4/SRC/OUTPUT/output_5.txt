@@ -1,19 +1,19 @@
 6
-E OR F
--B OR -C
--C
--B OR -E OR F
-C
-A OR -B OR -E
+-O OR -P
+M OR N
+N
+M OR O OR -P
+-N
+-K OR M OR O
 10
--B OR -C OR F
-E
-A OR -B OR -C
--B OR F
-F
--B OR -E
-A OR C OR F
-A OR -E
-A OR -B OR F
+M OR N OR -P
+-O
+-K OR M OR N
+M OR -P
+-P
+M OR O
+-K OR -N OR -P
+-K OR O
+-K OR M OR -P
 {}
 YES

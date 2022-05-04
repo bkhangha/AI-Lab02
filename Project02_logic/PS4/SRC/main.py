@@ -3,19 +3,19 @@ from file_reader import *
 from pl_resolution import *
 
 INPUT_LIST = [  
-    # 'INPUT/input_1.txt',
+    'INPUT/input_1.txt',
     'INPUT/input_2.txt',
-    #   'INPUT/input_3.txt',
-    #   'INPUT/input_4.txt',
-    #   'INPUT/input_5.txt'
+    'INPUT/input_3.txt',
+    'INPUT/input_4.txt',
+    'INPUT/input_5.txt'
 ]
 
 OUTPUT_LIST = [
-    # 'OUTPUT/output_1.txt',
+    'OUTPUT/output_1.txt',
     'OUTPUT/output_2.txt',
-    # 'OUTPUT/output_3.txt',
-    # 'OUTPUT/output_4.txt',
-    # 'OUTPUT/output_5.txt'
+    'OUTPUT/output_3.txt',
+    'OUTPUT/output_4.txt',
+    'OUTPUT/output_5.txt'
 ]
 
 TOTAL_TESTCASE = len(INPUT_LIST)

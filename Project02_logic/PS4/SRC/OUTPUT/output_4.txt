@@ -1,13 +1,18 @@
-4
--C OR D OR F
--A OR C OR D OR -E
-C OR -E OR -F
--A OR C OR -E
-3
-C OR D OR -E
-C OR -E
--A OR D OR -E OR F
+7
+-U OR X OR -Z
+-U OR W OR X OR -Z
+V OR W OR X OR -Y
+-V OR W OR X
+W OR X OR -Y OR -Z
+V OR W OR X OR -Z
+-V OR X
+5
+-U OR W OR X
+-U OR X
+W OR X OR -Y
+V OR W OR X
+W OR X OR -Z
 1
--A OR -C OR D OR F
+W OR X
 0
 NO

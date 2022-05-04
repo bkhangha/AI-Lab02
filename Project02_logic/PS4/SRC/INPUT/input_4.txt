@@ -1,6 +1,9 @@
--A OR B OR -D OR -F
-4
-D OR -E OR F
--C OR E OR F
--B
--A OR C OR -E OR -F
+-W OR -Y OR -Z
+5
+-U OR V OR X
+-U OR V OR W
+W OR X OR Z
+V OR W OR X OR -Y OR -Z
+-V OR X OR -Z
+
+

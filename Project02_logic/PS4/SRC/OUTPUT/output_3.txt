@@ -1,18 +1,7 @@
-7
-B OR -C OR -D
-A OR -C OR -D OR F
--C OR -D OR E OR F
-A OR -D OR F
-B OR -D
--B OR -C OR -D OR E
--B OR -C OR -D OR F
-5
--C OR -D OR F
-A OR -C OR -D
--C OR -D OR E
--B OR -C OR -D
-A OR -D
-1
--C OR -D
+4
+-Q OR S
+-Q
+-P OR -Q OR S
+-P OR -Q
 0
 NO
